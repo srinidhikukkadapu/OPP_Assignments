@@ -27,7 +27,7 @@ public:
 };
 int main()
 {
- Student s1(101, "Anjali", "Computer Science");
+ Student s1(64, "Srinidhi", "AIML");
  s1.displayDetails();
  return 0;
 }
